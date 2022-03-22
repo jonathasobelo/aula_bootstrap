@@ -1,9 +1,12 @@
 body{
    font: 20px Arial, sans-serif;
+   background-color: rgb(101, 102, 104);
+   color: rgb(162, 175, 185);
 }
 
 .navbar{
-   background-color:red;
+   background-color:rgba(156, 162, 163, 0.815);
+      
 }
 
 #quemsomos{
@@ -18,4 +21,11 @@ body{
 
 .parceiros{
    background-color: rgb(122, 122, 214);
+}
+
+.bg-footer{
+
+   background-color: black;
+   color: white;
+   font-family: Helvetica, sans-serif;
 }
